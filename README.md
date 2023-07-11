@@ -4,6 +4,17 @@
 
 A [Flarum](http://flarum.org) extension to mark old posts and discussions as outdated.
 
+## Features
+
+- Old posts have highlighted date in red
+- A badge is added to old discussions
+
+![Old post](https://raw.githubusercontent.com/matteociaroni/flarum-old-content/main/post.png)
+
+![Old discussion](https://raw.githubusercontent.com/matteociaroni/flarum-old-content/main/discussion.png)
+
+![Settings](https://raw.githubusercontent.com/matteociaroni/flarum-old-content/main/settings.png)
+
 ## Installation
 
 Install with composer:
